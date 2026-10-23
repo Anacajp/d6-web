@@ -8,3 +8,5 @@ export function fizzBuzz(num) {
   }
   console.log(result.join(", "));
 }
+
+fizzBuzz(15);
